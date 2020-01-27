@@ -1,6 +1,8 @@
 # howww.design
 ## web platform for developing a cross-discipline understanding of design thinking
-### home page design= empty room with white walls. That’s what artists, designers, programmers, writers, filmmakers face: an empty page, absence of anything. Now, you want to create some meaning: a story, an experience, a program. How to fill the space meaningfully?
+### home page design= empty room with white walls. That’s what artists, designers, programmers, writers, filmmakers face: an empty page, absence of anything. Now, you want to create some meaningful: a story, an experience, a program. How to fill this space?
+#### Philosophy
+From the chaos of the world and plantitude of options, we narrow down our choice to the most efficient, expressive and functional solution
 
 ### Sections:
 1. User Experience Design
