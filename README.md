@@ -20,8 +20,9 @@ solution to organize them and present in an easy-to-navigate way. That in itself
 ### Overarching questions:
 1. How to engage deeply with humans through design?
 2. How to get a good hang of foundational skills of my medium?
-3. How to innovate?
-4. What does it mean to **tell a story** in my medium? 
+3. How to innovate= how to work differently?
+4. What does it mean to **tell a story** in my medium?
+
 
 
 
