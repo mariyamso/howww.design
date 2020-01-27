@@ -14,3 +14,11 @@
 6. **Milton Glaser**
 7. **Nike**
 8. **GIPHY alex chung**
+
+### Books
+1. Creative Habit, Tharp
+2. Steal like an artist
+3. Flow
+4. **Thinking Fast and Slow – Daniel Kahneman**
+5. The ONE thing
+6. The power of habit
