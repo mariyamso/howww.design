@@ -23,6 +23,10 @@ solution to organize them and present in an easy-to-navigate way. That in itself
 3. How to innovate= how to work differently?
 4. What does it mean to **tell a story** in my medium?
 
-
-
+### Principles:
+1. Juxtaposition from totally random places, disciplines
+2. Catalouging and documenting influences/inspirations
+3. Remakes of known stuff, original but rooted in an already existing place in humanity`s collective brain.
+4. Boundaries, discpline, constraints -> in the struggle beauty is born
+5. Every element communicates smth, thus needs to be conveyed intentionally.
 
