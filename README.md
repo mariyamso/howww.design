@@ -17,10 +17,11 @@ From the chaos of the world and plantitude of options, we narrow down our choice
 -> Tap into your hobbies and side projects = Because I have all these separate fields I enjoy, I need to find a great design
 solution to organize them and present in an easy-to-navigate way. That in itself will communicate a skill of taking the complex and making it navigatable.
 
-### Overarching questions
+### Overarching questions:
 1. How to engage deeply with humans through design?
 2. How to get a good hang of foundational skills of my medium?
 3. How to innovate?
+4. What does it mean to **tell a story** in my medium? 
 
 
 
